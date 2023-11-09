@@ -2,17 +2,6 @@ const containers = document.getElementsByClassName('container');
 containers[2].classList.add('d-none');
 console.log(containers);
 
-
-
-
-
-
-
-
-
-
-
-
 // Event Listener
 const review_btn = document.getElementById('seereview');
 
